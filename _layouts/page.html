@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="/stylesheets/styles.css">
+        <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+        <!--[> syntax highlighting CSS <]-->
+        <!--<link rel="stylesheet" href="/css/syntax.css">-->
+
+        <!--[> Custom CSS <]-->
+
+        <!--<link rel="stylesheet" href="/cs/main.css">-->
+
+    </head>
+    <body>
+
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="/">Home</a></li>
+          <li class="fork"><a href="http://blog.wnohang.net">Blog</a></li>
+          <li class="fork"><a href="/pages/about">About</a></li>
+          <li class="fork"><a href="/pages/code">Code</a></li>
+          <li class="fork"><a href="/pages/contact">Contact</a></li>
+          <li class="title"><a href="https://twitter.com/randomsurfer">Twitter</a></li>
+          <li class="title"><a href="https://github.com/ronin13">GitHub</a></li>
+        </nav>
+      </div><!-- end header -->
+
+        <div id="title">
+          <h1>Wnohang</h1>
+          <p>Nothing like ::1</p>
+          <hr>
+        </div>
+
+    <div class="wrapper">
+      <section>
+        <h1 class="title">{{ page.title }}</h1>
+
+        {{ content }}
+      </section>
+    </div>
+
+    </body>
+</html>
