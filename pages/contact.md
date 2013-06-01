@@ -14,12 +14,13 @@ You can also use above to send me encrypted mails, if any.
 
 I can be contacted in following places: (in no order of preference except mail)
 
-    Gmail: raghu DOT prabhu 13 AT gmail DOT com without spaces
-    Twitter: [randomsurfer](https://twitter.com/randomsurfer)
-    IRC(freenode/oftc): tlonim
-    LinkedIn: [rdprabhu](http://linkedin.com/in/rdprabhu "LinkedIn")
-    Github: [ronin13](https://github.com/ronin13)
-    Last.fm: infiniteloop13
-    LWN: rilder
-    Work: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). Mail: raghavendra dot prabhu at percona dot com (without spaces again)
-    Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
+- Mail:  rprabhu AT wnohang DOT net 
+- Gmail: raghu DOT prabhu 13 AT gmail DOT com without spaces
+- Twitter: [randomsurfer](https://twitter.com/randomsurfer)
+- IRC(freenode/oftc): tlonim
+- LinkedIn: [rdprabhu](http://linkedin.com/in/rdprabhu "LinkedIn")
+- Github: [ronin13](https://github.com/ronin13)
+- Last.fm: infiniteloop13
+- LWN: rilder
+- Work: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). Mail: raghavendra dot prabhu at percona dot com (without spaces again)
+- Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
