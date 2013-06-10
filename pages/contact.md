@@ -17,6 +17,7 @@ I can be contacted in following places: (in no order of preference except mail)
 - Mail:  rprabhu AT wnohang DOT net 
 - Gmail: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
+- Ohloh: [rprabhu](https://www.ohloh.net/accounts/rprabhu)
 - IRC(freenode/oftc): tlonim
 - LinkedIn: [rdprabhu](http://linkedin.com/in/rdprabhu "LinkedIn")
 - Github: [ronin13](https://github.com/ronin13)
