@@ -15,7 +15,7 @@ You can also use above to send me encrypted mails, if any.
 I can be contacted in following places: (in no order of preference except mail)
 
 - Mail:  rprabhu AT wnohang DOT net 
-- Gmail: raghu DOT prabhu 13 AT gmail DOT com without spaces
+- Gmail*: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
 - Ohloh: [rprabhu](https://www.ohloh.net/accounts/rprabhu)
 - IRC(freenode/oftc): tlonim
@@ -25,3 +25,5 @@ I can be contacted in following places: (in no order of preference except mail)
 - LWN: rilder
 - Work: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). Mail: raghavendra dot prabhu at percona dot com (without spaces again)
 - Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
+
+(* - rdprabhu 13 AT gmail, raghavendradprabhu AT gmail, rdp1337 AT gmail also belong to me)

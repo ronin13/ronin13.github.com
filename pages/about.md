@@ -16,4 +16,4 @@ DKIM and SPF. If any mails from this domain is ending up in your spam,
 
 Also, visit [about.me/raghavendra.prabhu](http://about.me/raghavendra.prabhu) for an aesthetically appealing about page!
 
-For more feel free to contact me!
+For more feel free to [contact me!](/pages/contact).
