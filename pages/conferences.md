@@ -28,6 +28,19 @@ This page details all my conference activities and talks.
 
     * SCALE 13x (2015)
 
+- Academic conferences: 
+
+    * SOMGPU: Self Organizing Maps on a Graphical Processing Unit
+      for Pattern Classification: Published at IEEE Congress on
+      Evolutionary Computation (CEC) which was part of IEEE World
+      Congress on Computational Intelligence (WCCI) 2008.
+      http://dx.doi.org/10.1109/CEC.2008.4630920
+
+    * GNeuron: Parallel Neural Networks with GPU: Presented at 14th
+      International IEEE Conference on High Performance Computing
+      (HiPC) 2007. http://hipc.org/hipc2007/posters/GNeuron.pdf
+
+
 
 If you like me to speak at your conference, feel free to drop me a mail! My lanyrd profile:
 [http://lanyrd.com/profile/raghavendraprabhu/](http://lanyrd.com/profile/raghavendraprabhu/) has details of conferences I am tracking, attending and/or speaking, along with 

@@ -10,21 +10,21 @@ All mails from me will be signed with following GPG:
     GPG ID: 0xD72BE977
     Fingerprint: B93F EBCB 8E05 7039 CD3C A4B8 A616 DCA1 D72B E977
 
-You can also use above to send me encrypted mails, if any.
-
-I can be contacted in following places: (in no order of preference except mail)
+I can be contacted (or known) in following places: (in no order of preference except mail)
 
 - Gmail*: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
 - Keybase.io: [rdprabhu](https://keybase.io/rdprabhu)
 - Facebook: [raghavendradprabhu](https://www.facebook.com/raghavendradprabhu)
 - Work: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). Mail: raghavendra dot prabhu at percona dot com (without spaces again)
+- Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
 - IRC(freenode/oftc): tlonim
 - LinkedIn: [rdprabhu](http://linkedin.com/in/rdprabhu "LinkedIn")
 - Github: [ronin13](https://github.com/ronin13)
 - Last.fm: infiniteloop13
 - LWN: rilder
-- Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
+- Lanyrd: [raghavendraprabhu](http://lanyrd.com/profile/raghavendraprabhu)
+- About.me: [raghavendra.prabhu](http://about.me/raghavendra.prabhu)
 - Mail:  rprabhu AT wnohang DOT net  (Deprecated, use Gmail)
 - Ohloh: [rprabhu](https://www.ohloh.net/accounts/rprabhu)
 
