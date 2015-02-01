@@ -34,11 +34,11 @@ This page details all my conference activities and talks.
       for Pattern Classification: Published at IEEE Congress on
       Evolutionary Computation (CEC) which was part of IEEE World
       Congress on Computational Intelligence (WCCI) 2008.
-      http://dx.doi.org/10.1109/CEC.2008.4630920
+      [dx.doi.org](http://dx.doi.org/10.1109/CEC.2008.4630920)
 
     * GNeuron: Parallel Neural Networks with GPU: Presented at 14th
       International IEEE Conference on High Performance Computing
-      (HiPC) 2007. http://hipc.org/hipc2007/posters/GNeuron.pdf
+      (HiPC) 2007. [GNeuron](http://hipc.org/hipc2007/posters/GNeuron.pdf)
 
 
 

@@ -4,6 +4,8 @@ layout: page
 permalink: /pages/about/
 ---
 
+![Photo](/pages/me.jpg)
+
  I am Raghavendra Prabhu. Currently I am working for
 [Percona Inc.](http://percona.com) as Product Lead
 for Percona XtraDB Cluster. You can read about that

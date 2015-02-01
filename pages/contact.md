@@ -4,7 +4,7 @@ layout: page
 permalink: /pages/contact/
 ---
 
-All mails from me will be signed with following GPG:
+GPG details:
 
 
     GPG ID: 0xD72BE977
