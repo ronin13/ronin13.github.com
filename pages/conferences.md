@@ -1,0 +1,34 @@
+---
+title: Conferences
+layout: page
+permalink: /pages/conferences/
+---
+
+This page details all my conference activities and talks.
+
+- Playlist of all my talks: [Youtube playlist](https://www.youtube.com/playlist?list=PLctlsn9Gs8waaYMRlH_u_v7Ky1ARk7hsA)
+
+- Slides: [Slideshare](http://www.slideshare.net/slidunder)
+
+- Conferences I have been to and spoken at:
+
+    * PLMCE (2013, 2014, 2015)
+
+    * Linux.conf.au (2014, 2015)
+
+    * FOSDEM (2013)
+
+    * Linux Collab Summit (2014)
+
+    * Fossetcon (2014)
+
+    * RICON.io (2014)
+
+    * Highload++ (2014)
+
+    * SCALE 13x (2015)
+
+
+If you like me to speak at your conference, feel free to drop me a mail! My lanyrd profile:
+[http://lanyrd.com/profile/raghavendraprabhu/](http://lanyrd.com/profile/raghavendraprabhu/) has details of conferences I am tracking, attending and/or speaking, along with 
+a past history of ones I have attended. For more feel free to [contact me!](/pages/contact).
