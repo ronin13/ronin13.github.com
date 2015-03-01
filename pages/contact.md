@@ -12,6 +12,7 @@ GPG details:
 
 I can be contacted (or known) in following places: (in no order of preference except mail)
 
+- Google Plus: [RaghavendraPrabhu1337](https://plus.google.com/+RaghavendraPrabhu1337/)
 - Gmail*: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
 - Keybase.io: [rdprabhu](https://keybase.io/rdprabhu)
