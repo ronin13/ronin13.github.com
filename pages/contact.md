@@ -12,12 +12,16 @@ GPG details:
 
 I can be contacted (or known) in following places: (in no order of preference except mail)
 
+- Primary Mail(s):  rprabhu AT wnohang DOT net  OR raghavendra.d.prabhu AT Gmail dot COM 
+- Work Contact: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). 
+                Mail: raghavendra dot prabhu at percona dot com (without spaces again)
+
+
 - Google Plus: [RaghavendraPrabhu1337](https://plus.google.com/+RaghavendraPrabhu1337/)
 - Gmail*: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
 - Keybase.io: [rdprabhu](https://keybase.io/rdprabhu)
 - Facebook: [raghavendradprabhu](https://www.facebook.com/raghavendradprabhu)
-- Work: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). Mail: raghavendra dot prabhu at percona dot com (without spaces again)
 - Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
 - IRC(freenode/oftc): tlonim
 - LinkedIn: [rdprabhu](http://linkedin.com/in/rdprabhu "LinkedIn")
@@ -26,7 +30,6 @@ I can be contacted (or known) in following places: (in no order of preference ex
 - LWN: rilder
 - Lanyrd: [raghavendraprabhu](http://lanyrd.com/profile/raghavendraprabhu)
 - About.me: [raghavendra.prabhu](http://about.me/raghavendra.prabhu)
-- Mail:  rprabhu AT wnohang DOT net  (Deprecated, use Gmail)
 - Ohloh: [rprabhu](https://www.ohloh.net/accounts/rprabhu)
 
 (* - rdprabhu 13 AT gmail, raghavendradprabhu AT gmail, rdp1337 AT gmail also belong to me)
