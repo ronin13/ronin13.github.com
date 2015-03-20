@@ -12,7 +12,9 @@ GPG details:
 
 I can be contacted (or known) in following places: (in no order of preference except mail)
 
-- Primary Mail(s):  rprabhu AT wnohang DOT net  OR raghavendra.d.prabhu AT Gmail dot COM 
+- Primary Mail(s):  rprabhu AT wnohang DOT net  
+                    me AT wnohang DOT net
+                    raghavendra.d.prabhu AT Gmail dot COM 
 - Work Contact: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). 
                 Mail: raghavendra dot prabhu at percona dot com (without spaces again)
 

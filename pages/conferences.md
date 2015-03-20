@@ -28,6 +28,8 @@ This page details all my conference activities and talks.
 
     * SCALE 13x (2015)
 
+    * PLMCE 2015 (April 2015)
+
 - Academic conferences: 
 
     * SOMGPU: Self Organizing Maps on a Graphical Processing Unit
