@@ -17,7 +17,7 @@ I am also available for consulting and technical advisory roles.
 
 My public bio:
 
-    Raghavendra Prabhu is the Product Lead of Galera-based Percona XtraDB Cluster (PXC)
+    Raghavendra Prabhu is the Product (Technical) Lead of Galera-based Percona XtraDB Cluster (PXC)
     at Percona. He also works on Xtrabackup and Percona Server intermittently. He joined
     Percona in the fall of 2011. Before joining, he worked at Yahoo! SDC, Bangalore
     for 3 years as Systems Engineer, primarily dealing with databases (MySQL and Yahoo
