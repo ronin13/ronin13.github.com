@@ -14,8 +14,8 @@ I can be contacted (or known) in following places: (in no order of preference ex
 
 - Primary Mail(s):  me AT rdprabhu DOT com **
                     raghavendra.d.prabhu AT Gmail dot COM 
-- Work Contact: [Percona](http://www.percona.com/about-us/our-team/raghavendra-prabhu). 
-                Mail: raghavendra dot prabhu at percona dot com (without spaces again)
+- Work Contact: [Yelp](Yelp). 
+                Mail: rprabhu AT yelp dot COM (without spaces again)
 
 
 - Google Plus: [RaghavendraPrabhu1337](https://plus.google.com/+RaghavendraPrabhu1337/)
