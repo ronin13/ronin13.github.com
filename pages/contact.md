@@ -22,7 +22,7 @@ I can be contacted (or known) in following places: (in no order of preference ex
 - Gmail*: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
 - Keybase.io: [rdprabhu](https://keybase.io/rdprabhu)
-- Facebook: [raghavendradprabhu](https://www.facebook.com/raghavendradprabhu)
+- Facebook: [rprabhu.me](https://fb.me/rprabhu.me)
 - Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
 - IRC(freenode/oftc): tlonim
 - LinkedIn: [rdprabhu](http://linkedin.com/in/rdprabhu "LinkedIn")
