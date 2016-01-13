@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact/Social
 layout: page
 permalink: /pages/contact/
 ---
@@ -17,7 +17,7 @@ I can be contacted (or known) in following places: (in no order of preference ex
 - Work Contact: [Yelp](Yelp). 
                 Mail: rprabhu AT yelp dot COM (without spaces again)
 
-
+- Instagram: [@ocularmind](https://www.instagram.com/ocularmind)
 - Google Plus: [RaghavendraPrabhu1337](https://plus.google.com/+RaghavendraPrabhu1337/)
 - Gmail*: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
