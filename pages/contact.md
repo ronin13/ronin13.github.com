@@ -13,19 +13,16 @@ GPG details:
 I can be contacted (or known) in following places: (in no order of preference except mail)
 
 - Primary Mail(s):  me AT rdprabhu DOT com **
-                    raghavendra.d.prabhu AT Gmail dot COM 
+                     
 - Work Contact: [Yelp](Yelp). 
                 Mail: rprabhu AT yelp dot COM (without spaces again)
 
 - Yelp: [rprabhu.yelp.co.uk](http://rprabhu.yelp.co.uk)
 - Instagram: [@ocularmind](https://www.instagram.com/ocularmind)
-- Google Plus: [RaghavendraPrabhu1337](https://plus.google.com/+RaghavendraPrabhu1337/)
 - Gmail*: raghu DOT prabhu 13 AT gmail DOT com without spaces
 - Twitter: [randomsurfer](https://twitter.com/randomsurfer)
 - Keybase.io: [rdprabhu](https://keybase.io/rdprabhu)
-- Facebook: [rprabhu.me](https://fb.me/rprabhu.me)
 - Launchpad: [raghavendra-prabhu](https://launchpad.net/~raghavendra-prabhu)
-- IRC(freenode/oftc): tlonim
 - LinkedIn: [rdprabhu](http://linkedin.com/in/rdprabhu "LinkedIn")
 - Github: [ronin13](https://github.com/ronin13)
 - Last.fm: infiniteloop13
