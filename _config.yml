@@ -1,10 +1,4 @@
+markdown: rdiscount
 safe: true
 lsi: false
 relative_permalinks: false
-theme: jekyll-theme-modernist
-title: Wnohang
-description: No place like ::1
-show_downloads: false
-github:
-  is_project_page: false
-  is_user_page: true
