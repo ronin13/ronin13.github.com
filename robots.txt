@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /files/
+Disallow: /cgit.cgi/
+Crawl-delay: 20
