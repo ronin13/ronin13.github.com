@@ -4,9 +4,13 @@ layout: page
 permalink: /pages/code/
 ---
 
-* MySQL/Innodb code on launchpad: [Launchpad](https://launchpad.net/~raghavendra-prabhu)
 * Github: [Github page](http://github.com/ronin13)
-* Local Git repo [here](http://git.wnohang.net/). This is for archival only, github repo for anything else.
+
+## Archival
+Following repos and pages are for archival only and not maintained actively.
+
+* Self-hosted Git repo [here](http://git.wnohang.net/). This has some repos (such as ones pertaining to kernel) which have not been migrated to github.
+* MySQL/Innodb code on launchpad: [Launchpad](https://launchpad.net/~raghavendra-prabhu).
 * Older sites:
     - [Github home page:](http://ronin13.github.com/)
     - [My former homepage:](http://raghuforge.googlepages.com/)
